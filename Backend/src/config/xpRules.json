@@ -1,0 +1,65 @@
+{
+  "activities": {
+    "project": {
+      "base": 50,
+      "perTechnology": 10,
+      "impactMultiplier": {
+        "low": 1.0,
+        "medium": 1.5,
+        "high": 2.0
+      }
+    },
+    "experience": {
+      "base": 100,
+      "perMonth": 5,
+      "roleMultiplier": {
+        "contributor": 1.0,
+        "lead": 1.5,
+        "owner": 2.0
+      }
+    },
+    "skill": {
+      "perSkill": 5
+    },
+    "achievement": {
+      "hackathonWin": 200,
+      "patent": 300,
+      "publication": 250,
+      "certification": 50
+    }
+  },
+  "stats": {
+    "technicalMastery": {
+      "weight": 0.25,
+      "xpPerPoint": 3
+    },
+    "projectPower": {
+      "weight": 0.20,
+      "xpPerPoint": 3
+    },
+    "collaboration": {
+      "weight": 0.15,
+      "xpPerPoint": 2
+    },
+    "innovationCreativity": {
+      "weight": 0.10,
+      "xpPerPoint": 2
+    },
+    "problemSolving": {
+      "weight": 0.15,
+      "xpPerPoint": 2
+    },
+    "academicEndurance": {
+      "weight": 0.05,
+      "xpPerPoint": 1
+    },
+    "leadership": {
+      "weight": 0.10,
+      "xpPerPoint": 2
+    },
+    "extracurricular": {
+      "weight": 0.05,
+      "xpPerPoint": 1
+    }
+  }
+}

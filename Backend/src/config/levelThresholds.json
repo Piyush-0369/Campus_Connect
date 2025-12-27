@@ -1,0 +1,24 @@
+{
+  "levels": [
+    { "level": 1, "minXP": 0, "maxXP": 100, "title": "Novice" },
+    { "level": 2, "minXP": 100, "maxXP": 250, "title": "Beginner" },
+    { "level": 3, "minXP": 250, "maxXP": 450, "title": "Learner" },
+    { "level": 4, "minXP": 450, "maxXP": 700, "title": "Apprentice" },
+    { "level": 5, "minXP": 700, "maxXP": 1000, "title": "Intermediate" },
+    { "level": 6, "minXP": 1000, "maxXP": 1400, "title": "Practitioner" },
+    { "level": 7, "minXP": 1400, "maxXP": 1900, "title": "Skilled" },
+    { "level": 8, "minXP": 1900, "maxXP": 2500, "title": "Advanced" },
+    { "level": 9, "minXP": 2500, "maxXP": 3200, "title": "Proficient" },
+    { "level": 10, "minXP": 3200, "maxXP": 4000, "title": "Expert" },
+    { "level": 11, "minXP": 4000, "maxXP": 5000, "title": "Master" },
+    { "level": 12, "minXP": 5000, "maxXP": 6200, "title": "Veteran" },
+    { "level": 13, "minXP": 6200, "maxXP": 7600, "title": "Elite" },
+    { "level": 14, "minXP": 7600, "maxXP": 9200, "title": "Champion" },
+    { "level": 15, "minXP": 9200, "maxXP": 11000, "title": "Legend" },
+    { "level": 16, "minXP": 11000, "maxXP": 13000, "title": "Grandmaster" },
+    { "level": 17, "minXP": 13000, "maxXP": 15500, "title": "Hero" },
+    { "level": 18, "minXP": 15500, "maxXP": 18500, "title": "Titan" },
+    { "level": 19, "minXP": 18500, "maxXP": 22000, "title": "Deity" },
+    { "level": 20, "minXP": 22000, "maxXP": 999999, "title": "Immortal" }
+  ]
+}
